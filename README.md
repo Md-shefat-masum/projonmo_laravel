@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://www.prossodprokashon.com" target="_blank"><img src="https://www.prossodprokashon.com/logo.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -8,7 +8,7 @@
 </p>
 
 
-## Laravel Ecommerce Platform
+## Ecommerce Platform
 
 This is a e-commerce platform I made mostly using Laravel ^8.3
 
