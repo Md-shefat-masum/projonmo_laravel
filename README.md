@@ -96,7 +96,7 @@ php artisan key:generate
 
 ## License
 
-> Copyright (C) 2021 HungryCoders.  
+> Copyright (C) 2021 Mdshefat.  
 **[⬆ back to top](#laravel-ecommerce-platform)**
 
 [Features]:#features
