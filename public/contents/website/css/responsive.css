@@ -1,0 +1,191 @@
+@media screen and (max-width: 575.99px) {
+    nav .mid {
+        height: unset;
+        margin: 10px 0px;
+    }
+
+    nav .right ul {
+        margin-bottom: 20px;
+        justify-content: center;
+        display: flex;
+    }
+
+    .common-heading {
+        padding: 50px 0px;
+    }
+
+    .common-heading h2 span {
+        width: 100%;
+    }
+
+    .common-heading h2::before,
+    .common-heading h2::after {
+        display: none;
+    }
+
+    .blog_body {
+        margin-bottom: 30px;
+        display: block;
+    }
+
+    footer h3 {
+        margin-top: 30px;
+    }
+
+    .product_body .bottom a h4 {
+        font-size: 14px;
+    }
+
+    .product_image {
+        margin-bottom: 30px;
+    }
+
+    .product_info .cart_form .cart_amount label:last-child {
+        top: 0;
+    }
+
+    .product_review .nav_btns li .custom_btn2 {
+        margin-bottom: 20px;
+    }
+
+    .blog_list_body .description {
+        text-align: justify;
+        padding: 20px 0px;
+    }
+
+    .row .five_col {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+
+    .custom_btn1.flex_btn {
+        width: 88%;
+        align-self: center;
+    }
+
+    .product_body{
+        min-height: 280px;
+    }
+
+    .product_section{
+        min-height: 280px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 992px) {
+    nav .mid {
+        height: unset;
+        margin: 10px 0px;
+    }
+
+    nav .right ul {
+        margin-bottom: 20px;
+        justify-content: center;
+        display: flex;
+    }
+
+    .common-heading h2 span {
+        width: 100%;
+    }
+
+    .common-heading h2::before,
+    .common-heading h2::after {
+        display: none;
+    }
+
+    .product_body {
+        /* margin-bottom: 30px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 273px;
+    }
+
+    .blog_body {
+        margin-bottom: 30px;
+        display: block;
+    }
+
+    footer h3 {
+        margin-top: 30px;
+    }
+
+    .product_body .bottom a h4 {
+        font-size: 14px;
+    }
+
+    .blog_list_body .description {
+        text-align: justify;
+        padding: 20px 0px;
+    }
+
+    .recent_view {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .recent_view li {
+        width: 48%;
+    }
+
+    .row .five_col{
+        width: 33.333333333333336%;
+    }
+}
+
+@media (min-width: 768px) {
+    nav .right ul li:first-child span {
+        display: none;
+    }
+
+    .recent_view {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .recent_view li {
+        width: 48%;
+    }
+
+    .custom_btn1.flex_btn {
+        width: 95%;
+    }
+
+    .row .five_col {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+
+    .product_section {
+        min-height: 290px;
+    }
+}
+
+@media (min-width: 992px) {
+    .recent_view li {
+        width: 100%;
+    }
+
+    .common-heading h2 span {
+        width: 25%;
+    }
+
+    .common-heading h2::after,
+    .common-heading h2::before {
+        width: 37.5%;
+    }
+
+    .custom_btn1.flex_btn {
+        width: 58%;
+        align-self: center;
+    }
+
+    nav .right ul li:first-child span{
+        display: inline-block;
+    }
+}
+
+
+@media (min-width: 1400px) {}
