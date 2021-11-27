@@ -42,7 +42,7 @@ This is a e-commerce platform I made mostly using Laravel ^8.3
 Clone repo
 
 ```
-git clone https://github.com/Md-shefat-masum/Laravel-Ecommerce.git
+git clone https://github.com/Md-shefat-masum/projonmo_laravel.git
 ```
 
 Install Composer
